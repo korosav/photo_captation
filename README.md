@@ -1,1 +1,1 @@
-# photo_captation
+# photo_captation_generator
