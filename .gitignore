@@ -1,3 +1,4 @@
 /.vscode
 /Flickr8k_Dataset
 *.pkl
+*.h5
