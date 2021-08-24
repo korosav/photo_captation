@@ -49,6 +49,7 @@ ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptypr
 pyarrow==4.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
+pydot==1.4.2
 Pygments @ file:///tmp/build/80754af9/pygments_1621606182707/work
 pyparsing==2.4.7
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work

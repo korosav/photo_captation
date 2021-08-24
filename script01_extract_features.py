@@ -36,7 +36,7 @@ def extract_features(directory):
 	return features
 
 # extract features from all images
-directory = '/home/koros/projects/photo_captation_generator/Flickr8k_Dataset'
+directory = './Flickr8k_Dataset'
 features = extract_features(directory)
 print('Extracted Features: %d' % len(features))
 # save to file
